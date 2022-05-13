@@ -3,7 +3,6 @@ import random
 # ace() no longer works (at least when deck is full, probably for more scenarios)
 # make it so that as soon as you go over 21, you lose (idk what to do about aces though)
 # some tens are counted twice idk why
-# CAN'T DO MATH IDK WHY WTF
 # it thinks that [ace of hearts, 2 of diamonds, 8 of spades] is 23 when ace is 11
 
 values = [2, 3, 4, 5, 6, 7, 8, 9, 10, "jack", "queen", "king", "ace"]
