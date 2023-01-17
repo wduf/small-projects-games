@@ -1,3 +1,3 @@
-# python-small-projects-games
+# small-projects-games
 
-i taught myself python a few summers ago and this is a collection of some of the small projects and games i made
+I taught myself Python two years ago and this is a collection of some of the small projects and games I made.
